@@ -1,1 +1,1 @@
-# prj
+# this spaces is for android projects.
